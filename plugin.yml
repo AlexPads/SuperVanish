@@ -1,0 +1,15 @@
+name: SuperVanish
+main: SaltyPixelDevs\SuperVanish\Main
+version: 0.0.1
+api: 3.6.2
+author: SaltyPixelDevs
+commands:
+ sv:
+  description: "Super Vanish"
+  default: op
+ esv:
+  description: "Removes from Super Vanish"
+  default: op
+ fl:
+  description: ""
+  default: op
