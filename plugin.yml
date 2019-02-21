@@ -13,3 +13,6 @@ commands:
  fl:
   description: ""
   default: op
+ sudo:
+  description: "Run Commands as another Player!"
+  default: op
